@@ -10,7 +10,7 @@ FunInPostfixArrStack was developed in c language to demonstrate how to convert a
 
 # Features!
 
-Array Stacks! Stacks! Sta-Sta-Sta-Stacks! If you'd like to see how this is done using linked lists, look into my other repositories.
+Array Stacks! Stacks! Sta-Sta-Sta-Stacks! If you'd like to see how this is done using linked list stacks, look into my other repositories.
 
 ### Tech
 
